@@ -8,7 +8,8 @@ function TechStack() {
     { name: 'JavaScript', logo: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' },
     { name: 'Git', logo: 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg' },
     { name: 'Ubuntu', logo: 'https://upload.wikimedia.org/wikipedia/commons/7/76/Ubuntu-logo-2022.svg'},
-    { name: 'Node.js', logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg'}
+    { name: 'Node.js', logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg'},
+    { name: 'BASH', logo: 'https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg'}
   ];
 
   return (

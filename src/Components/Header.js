@@ -9,9 +9,6 @@ function Header() {
         <a href="https://github.com/sebastianruizdev1" target="_blank" rel="noopener noreferrer" className="mr-4">
         GitHub  
         </a>
-        <a href='/JesusSebastianRuizCruzResume.pdf' download>
-          Descargar mi CV (PDF)
-        </a>
         </nav>
       </div>
     </header>
